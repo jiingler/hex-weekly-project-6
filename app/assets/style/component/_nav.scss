@@ -1,0 +1,24 @@
+.nav-item {
+  color: $tertiary;
+  font-size: $font-size-lg;
+}
+
+.navbar {
+  @media (max-width:768px) {
+    padding-left: 0;
+    padding-right: 0;
+    .navbar-brand {
+      padding-left: 1rem;
+    }
+    .nav-item {
+      background-color: #707070;
+      height: 70px;
+      color: white;
+      justify-content: center;
+      margin-bottom: 1px;
+      i {
+        display: none;
+      }
+    }
+  }
+}
