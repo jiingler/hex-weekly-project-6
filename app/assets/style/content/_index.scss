@@ -1,0 +1,59 @@
+.banner {
+  background-image: url('https://images.unsplash.com/photo-1588159343745-445ae0b16383?ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 480px;
+  padding-bottom: 135px;
+  @media (min-width: 992px) {
+    height: 870px;
+    padding-bottom: 295px;
+  }
+  .shop-btn {
+    width: 100%;
+    @media (min-width:992px) {
+      width: 75%;
+    }
+  }
+}
+
+.intro {
+  &-img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+    height: 350px;
+    @media (min-width:992px) {
+      height: 555px;
+    }
+  }
+  li {
+    &:last-child {
+      .intro-img {
+        height: 680px;
+        @media (min-width:992px) {
+          height: 1080px;
+        }
+      }
+    }
+  }
+}
+
+.product {
+  &-img {
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom center;
+    height: 350px;
+    @media (min-width:992px) {
+      height: 540px;
+    }
+  }
+}
+
+.philosophy {
+  &-img {
+    object-fit: cover;
+    height: 520px;
+  }
+}

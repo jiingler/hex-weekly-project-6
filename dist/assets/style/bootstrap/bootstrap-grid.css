@@ -1359,6 +1359,25 @@ html {
 .mx-7 {
   margin-left: 2.25rem !important; }
 
+.m-8 {
+  margin: 2.5rem !important; }
+
+.mt-8,
+.my-8 {
+  margin-top: 2.5rem !important; }
+
+.mr-8,
+.mx-8 {
+  margin-right: 2.5rem !important; }
+
+.mb-8,
+.my-8 {
+  margin-bottom: 2.5rem !important; }
+
+.ml-8,
+.mx-8 {
+  margin-left: 2.5rem !important; }
+
 .m-15 {
   margin: 15px !important; }
 
@@ -1530,6 +1549,25 @@ html {
 .px-7 {
   padding-left: 2.25rem !important; }
 
+.p-8 {
+  padding: 2.5rem !important; }
+
+.pt-8,
+.py-8 {
+  padding-top: 2.5rem !important; }
+
+.pr-8,
+.px-8 {
+  padding-right: 2.5rem !important; }
+
+.pb-8,
+.py-8 {
+  padding-bottom: 2.5rem !important; }
+
+.pl-8,
+.px-8 {
+  padding-left: 2.5rem !important; }
+
 .p-15 {
   padding: 15px !important; }
 
@@ -1682,6 +1720,25 @@ html {
 .mx-n7 {
   margin-left: -2.25rem !important; }
 
+.m-n8 {
+  margin: -2.5rem !important; }
+
+.mt-n8,
+.my-n8 {
+  margin-top: -2.5rem !important; }
+
+.mr-n8,
+.mx-n8 {
+  margin-right: -2.5rem !important; }
+
+.mb-n8,
+.my-n8 {
+  margin-bottom: -2.5rem !important; }
+
+.ml-n8,
+.mx-n8 {
+  margin-left: -2.5rem !important; }
+
 .m-n15 {
   margin: -15px !important; }
 
@@ -1833,6 +1890,20 @@ html {
   .ml-sm-7,
   .mx-sm-7 {
     margin-left: 2.25rem !important; }
+  .m-sm-8 {
+    margin: 2.5rem !important; }
+  .mt-sm-8,
+  .my-sm-8 {
+    margin-top: 2.5rem !important; }
+  .mr-sm-8,
+  .mx-sm-8 {
+    margin-right: 2.5rem !important; }
+  .mb-sm-8,
+  .my-sm-8 {
+    margin-bottom: 2.5rem !important; }
+  .ml-sm-8,
+  .mx-sm-8 {
+    margin-left: 2.5rem !important; }
   .m-sm-15 {
     margin: 15px !important; }
   .mt-sm-15,
@@ -1959,6 +2030,20 @@ html {
   .pl-sm-7,
   .px-sm-7 {
     padding-left: 2.25rem !important; }
+  .p-sm-8 {
+    padding: 2.5rem !important; }
+  .pt-sm-8,
+  .py-sm-8 {
+    padding-top: 2.5rem !important; }
+  .pr-sm-8,
+  .px-sm-8 {
+    padding-right: 2.5rem !important; }
+  .pb-sm-8,
+  .py-sm-8 {
+    padding-bottom: 2.5rem !important; }
+  .pl-sm-8,
+  .px-sm-8 {
+    padding-left: 2.5rem !important; }
   .p-sm-15 {
     padding: 15px !important; }
   .pt-sm-15,
@@ -2071,6 +2156,20 @@ html {
   .ml-sm-n7,
   .mx-sm-n7 {
     margin-left: -2.25rem !important; }
+  .m-sm-n8 {
+    margin: -2.5rem !important; }
+  .mt-sm-n8,
+  .my-sm-n8 {
+    margin-top: -2.5rem !important; }
+  .mr-sm-n8,
+  .mx-sm-n8 {
+    margin-right: -2.5rem !important; }
+  .mb-sm-n8,
+  .my-sm-n8 {
+    margin-bottom: -2.5rem !important; }
+  .ml-sm-n8,
+  .mx-sm-n8 {
+    margin-left: -2.5rem !important; }
   .m-sm-n15 {
     margin: -15px !important; }
   .mt-sm-n15,
@@ -2213,6 +2312,20 @@ html {
   .ml-md-7,
   .mx-md-7 {
     margin-left: 2.25rem !important; }
+  .m-md-8 {
+    margin: 2.5rem !important; }
+  .mt-md-8,
+  .my-md-8 {
+    margin-top: 2.5rem !important; }
+  .mr-md-8,
+  .mx-md-8 {
+    margin-right: 2.5rem !important; }
+  .mb-md-8,
+  .my-md-8 {
+    margin-bottom: 2.5rem !important; }
+  .ml-md-8,
+  .mx-md-8 {
+    margin-left: 2.5rem !important; }
   .m-md-15 {
     margin: 15px !important; }
   .mt-md-15,
@@ -2339,6 +2452,20 @@ html {
   .pl-md-7,
   .px-md-7 {
     padding-left: 2.25rem !important; }
+  .p-md-8 {
+    padding: 2.5rem !important; }
+  .pt-md-8,
+  .py-md-8 {
+    padding-top: 2.5rem !important; }
+  .pr-md-8,
+  .px-md-8 {
+    padding-right: 2.5rem !important; }
+  .pb-md-8,
+  .py-md-8 {
+    padding-bottom: 2.5rem !important; }
+  .pl-md-8,
+  .px-md-8 {
+    padding-left: 2.5rem !important; }
   .p-md-15 {
     padding: 15px !important; }
   .pt-md-15,
@@ -2451,6 +2578,20 @@ html {
   .ml-md-n7,
   .mx-md-n7 {
     margin-left: -2.25rem !important; }
+  .m-md-n8 {
+    margin: -2.5rem !important; }
+  .mt-md-n8,
+  .my-md-n8 {
+    margin-top: -2.5rem !important; }
+  .mr-md-n8,
+  .mx-md-n8 {
+    margin-right: -2.5rem !important; }
+  .mb-md-n8,
+  .my-md-n8 {
+    margin-bottom: -2.5rem !important; }
+  .ml-md-n8,
+  .mx-md-n8 {
+    margin-left: -2.5rem !important; }
   .m-md-n15 {
     margin: -15px !important; }
   .mt-md-n15,
@@ -2593,6 +2734,20 @@ html {
   .ml-lg-7,
   .mx-lg-7 {
     margin-left: 2.25rem !important; }
+  .m-lg-8 {
+    margin: 2.5rem !important; }
+  .mt-lg-8,
+  .my-lg-8 {
+    margin-top: 2.5rem !important; }
+  .mr-lg-8,
+  .mx-lg-8 {
+    margin-right: 2.5rem !important; }
+  .mb-lg-8,
+  .my-lg-8 {
+    margin-bottom: 2.5rem !important; }
+  .ml-lg-8,
+  .mx-lg-8 {
+    margin-left: 2.5rem !important; }
   .m-lg-15 {
     margin: 15px !important; }
   .mt-lg-15,
@@ -2719,6 +2874,20 @@ html {
   .pl-lg-7,
   .px-lg-7 {
     padding-left: 2.25rem !important; }
+  .p-lg-8 {
+    padding: 2.5rem !important; }
+  .pt-lg-8,
+  .py-lg-8 {
+    padding-top: 2.5rem !important; }
+  .pr-lg-8,
+  .px-lg-8 {
+    padding-right: 2.5rem !important; }
+  .pb-lg-8,
+  .py-lg-8 {
+    padding-bottom: 2.5rem !important; }
+  .pl-lg-8,
+  .px-lg-8 {
+    padding-left: 2.5rem !important; }
   .p-lg-15 {
     padding: 15px !important; }
   .pt-lg-15,
@@ -2831,6 +3000,20 @@ html {
   .ml-lg-n7,
   .mx-lg-n7 {
     margin-left: -2.25rem !important; }
+  .m-lg-n8 {
+    margin: -2.5rem !important; }
+  .mt-lg-n8,
+  .my-lg-n8 {
+    margin-top: -2.5rem !important; }
+  .mr-lg-n8,
+  .mx-lg-n8 {
+    margin-right: -2.5rem !important; }
+  .mb-lg-n8,
+  .my-lg-n8 {
+    margin-bottom: -2.5rem !important; }
+  .ml-lg-n8,
+  .mx-lg-n8 {
+    margin-left: -2.5rem !important; }
   .m-lg-n15 {
     margin: -15px !important; }
   .mt-lg-n15,
@@ -2973,6 +3156,20 @@ html {
   .ml-xl-7,
   .mx-xl-7 {
     margin-left: 2.25rem !important; }
+  .m-xl-8 {
+    margin: 2.5rem !important; }
+  .mt-xl-8,
+  .my-xl-8 {
+    margin-top: 2.5rem !important; }
+  .mr-xl-8,
+  .mx-xl-8 {
+    margin-right: 2.5rem !important; }
+  .mb-xl-8,
+  .my-xl-8 {
+    margin-bottom: 2.5rem !important; }
+  .ml-xl-8,
+  .mx-xl-8 {
+    margin-left: 2.5rem !important; }
   .m-xl-15 {
     margin: 15px !important; }
   .mt-xl-15,
@@ -3099,6 +3296,20 @@ html {
   .pl-xl-7,
   .px-xl-7 {
     padding-left: 2.25rem !important; }
+  .p-xl-8 {
+    padding: 2.5rem !important; }
+  .pt-xl-8,
+  .py-xl-8 {
+    padding-top: 2.5rem !important; }
+  .pr-xl-8,
+  .px-xl-8 {
+    padding-right: 2.5rem !important; }
+  .pb-xl-8,
+  .py-xl-8 {
+    padding-bottom: 2.5rem !important; }
+  .pl-xl-8,
+  .px-xl-8 {
+    padding-left: 2.5rem !important; }
   .p-xl-15 {
     padding: 15px !important; }
   .pt-xl-15,
@@ -3211,6 +3422,20 @@ html {
   .ml-xl-n7,
   .mx-xl-n7 {
     margin-left: -2.25rem !important; }
+  .m-xl-n8 {
+    margin: -2.5rem !important; }
+  .mt-xl-n8,
+  .my-xl-n8 {
+    margin-top: -2.5rem !important; }
+  .mr-xl-n8,
+  .mx-xl-n8 {
+    margin-right: -2.5rem !important; }
+  .mb-xl-n8,
+  .my-xl-n8 {
+    margin-bottom: -2.5rem !important; }
+  .ml-xl-n8,
+  .mx-xl-n8 {
+    margin-left: -2.5rem !important; }
   .m-xl-n15 {
     margin: -15px !important; }
   .mt-xl-n15,
