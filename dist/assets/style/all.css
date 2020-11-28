@@ -8768,7 +8768,15 @@ a:hover {
       justify-content: center;
       margin-bottom: 1px; }
       .navbar .nav-item i {
-        display: none; } }
+        display: none; }
+    .navbar .cart {
+      position: relative; }
+      .navbar .cart .badge {
+        min-width: 10px;
+        min-height: 20px;
+        position: absolute;
+        top: -10px;
+        right: -5px; } }
 
 .c-primary {
   color: #916019; }
