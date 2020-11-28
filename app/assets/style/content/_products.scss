@@ -3,6 +3,14 @@
   padding-bottom: 40px;
   .product {
     margin-bottom: 30px;
+    a:hover {
+      h3, p {
+        color: $primary;
+      }
+      i {
+        color: black;
+      }
+    }
   }
   @media (min-width:992px) {
     padding-top: 80px;

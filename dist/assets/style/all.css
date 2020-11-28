@@ -8924,6 +8924,10 @@ a:hover {
   padding-bottom: 40px; }
   .products .product {
     margin-bottom: 30px; }
+    .products .product a:hover h3, .products .product a:hover p {
+      color: #916019; }
+    .products .product a:hover i {
+      color: black; }
   @media (min-width: 992px) {
     .products {
       padding-top: 80px;
