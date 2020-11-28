@@ -15,7 +15,7 @@
 <body>
   <header>
     <nav class="container navbar navbar-expand-lg">
-        <h1 class="navbar-brand"><a href="#"><img src="assets/images/d’Perfume.png" alt="D'perfume"></a></h1>
+        <h1 class="navbar-brand"><a href="./index.html"><img src="assets/images/d’Perfume.png" alt="D'perfume"></a></h1>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="material-icons">
             menu
@@ -24,7 +24,7 @@
         <div class="collapse navbar-collapse justify-content-end ml-auto" id="navbarNavAltMarkup">
           <ul class="navbar-nav d-flex justify-content-end">
             <li>
-              <a href="#" class="nav-item nav-link d-flex align-items-center mr-lg-6 c-tertiary fz-20">
+              <a href="./product.html" class="nav-item nav-link d-flex align-items-center mr-lg-6 c-tertiary fz-20">
                 <i class="material-icons mr-1">store</i>
                 <p>Product</p>
               </a>
@@ -52,6 +52,11 @@
       </nav>
   </header>
 
+
+  <% if (page !== 'index') { %>
+    <%- include('./components/brand-menu.html'); %>
+  <% } %>
+
   <%- contents %>
 
   <footer class="footer">
@@ -74,7 +79,7 @@
       <nav class="container">
         <div class="navbar-brand d-flex align-items-center justify-content-between w-100 mr-n3">
           <h1>
-            <a href="#">
+            <a href="./index.html">
               <img src="assets/images/d’Perfumew.png" alt="D'perfume">
             </a>
           </h1>
@@ -82,7 +87,7 @@
           </div>
           <div class="collapse navbar-collapse justify-content-end">
             <ul class="navbar-nav d-flex">
-              <li><a href="#" class="nav-item nav-link fz-20 c-white">Product</a></li>
+              <li><a href="./product.html" class="nav-item nav-link fz-20 c-white">Product</a></li>
               <li><a href="#" class="nav-item nav-link fz-20 ml-lg-7 c-white">Blog</a></li>
               <li><a href="#" class="nav-item nav-link fz-20 ml-lg-7 c-white">Contact</a></li>
             </ul>
